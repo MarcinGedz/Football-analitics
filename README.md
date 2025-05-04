@@ -15,5 +15,6 @@ Application Operation
 
 3.2.4	Next, the application generates a summary of offensive metrics.
  ![image](https://github.com/user-attachments/assets/d2bbc567-97b0-47ab-9bfd-a4cf0cb7a512)
+ 
 3.2.5	In the final section, the application generates a view of defensive metrics.
 ![image](https://github.com/user-attachments/assets/42b22539-b522-4d3c-be9e-190fe7e0e6f5)
