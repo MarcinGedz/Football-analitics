@@ -12,6 +12,7 @@ Application Operation
 ![image](https://github.com/user-attachments/assets/52e850b2-2dca-46af-a2b0-a8f3d64416a4)
 3.2.3	In the next step, the application generates a graphical representation of the stages the club has reached in recent years. By using a line chart, we get a clear view of the team’s achievements.
  ![image](https://github.com/user-attachments/assets/4ff745dc-aa29-43ce-875f-66357fee620c)
+
 3.2.4	Next, the application generates a summary of offensive metrics.
  ![image](https://github.com/user-attachments/assets/d2bbc567-97b0-47ab-9bfd-a4cf0cb7a512)
 3.2.5	In the final section, the application generates a view of defensive metrics.
